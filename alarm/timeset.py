@@ -5,7 +5,6 @@ import time
 import winsound
 import tkinter as tk
 from threading import Thread
-from ring import set_alarm
 import threading
 
 KAKAO_API_KEY = '606eb0e1026765fdeb477779e4235c7d'
